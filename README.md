@@ -8,10 +8,10 @@ Setup:
 IR_RemoteC folder to your choice of workspaces.
 
 2. Open the user_config.h file and add your local WIFI credentials:
-
-#define WIFI_CLIENTSSID		"YOURSSID"
+<code>
+#define WIFI_CLIENTSSID	"YOURSSID"
 #define WIFI_CLIENTPASSWORD	"YOURPW"
-
+</code>
 
 Operation:
 
